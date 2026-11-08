@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "terrain_slabs:block/grass_slab",
+    "tints": [
+      {
+        "type": "minecraft:constant",
+        "value": 8174955
+      }
+    ]
+  }
+}
