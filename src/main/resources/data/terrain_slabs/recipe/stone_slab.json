@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": "minecraft:stone"
+  },
+  "result": {
+    "id": "terrain_slabs:stone_slab",
+    "count": 6
+  }
+}
